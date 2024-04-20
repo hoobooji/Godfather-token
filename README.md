@@ -1,7 +1,7 @@
 # File-sharing-Bot
 
 Telegram Bot to store Posts and Documents and it can Access by Special Links and they have to genrate token each in 24 hour . 
-If You wnt any help reach me out on telegram [Onekayyum](t.me/onekayyum). 
+If You wnt any help reach me out on telegram [Revlotz](t.me/Revlotz). 
 
 ##
 
@@ -108,24 +108,4 @@ python3 main.py
 * `{uptime}` - Bot Uptime
 
 
-## Support   
-
-Report Bugs, Give Feature Requests There..   
-telegram Onekayyum(t.me/onekayyum)
-
-### Credits
-
-- Thanks To Dan For His Awsome [Libary](https://github.com/pyrogram/pyrogram)
-- Our Support Group Members
-
-### Licence
-[![GNU GPLv3 Image](https://www.gnu.org/graphics/gplv3-127x51.png)](http://www.gnu.org/licenses/gpl-3.0.en.html)  
-
-
-## Special Thanks
-[CodeXBotz](https://github.com/CodeXBotz/File-Sharing-Bot/) for there file share bot repo Without there repo it would'nt be possible for me to create this bot from scrath
-
-##
-
-   **Star this Repo if you Liked it ⭐⭐⭐⭐⭐**
 
